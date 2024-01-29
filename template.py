@@ -28,7 +28,8 @@ list_of_files=[
     "pyproject.tool",
     "tox.ini",
     "experiment/experiments.ipynb",
-    "test.py"
+    "test.py",
+    "setup.py"
 ]
 
 for filepath in list_of_files:
